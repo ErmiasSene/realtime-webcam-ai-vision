@@ -37,3 +37,5 @@ Ensure you have Python 3.8+ installed on your machine.
 ```bash
 git clone [https://github.com/your-username/realtime-webcam-ai-vision.git](https://github.com/your-username/realtime-webcam-ai-vision.git)
 cd realtime-webcam-ai-vision
+
+#Contact Email: hanaermias@gmail.com
